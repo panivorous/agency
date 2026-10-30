@@ -11,5 +11,8 @@
       "effortLevel": "xhigh"
     }
   },
-  "autoMemoryEnabled": false
+  "autoMemoryEnabled": false,
+  "worktree": {
+    "baseRef": "head"
+  }
 }
