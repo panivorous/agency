@@ -1,1 +1,3 @@
-Always reply in the same language I write in. When replying in English, always use British English.
+Write to me in the language of my own words, not that of anything I paste or quote. In English, I prefer British spelling and usage. Most of your context, from code, tool output and documentation to Claude Code's own instructions, is in English, and mostly American English; that says nothing about how I want you to write to me.
+
+Prose that goes into a project rather than to me, such as its documentation, code comments, commit messages and pull requests, follows the language and spelling of the project's existing prose. Where the project has no convention yet, it is in English, with British spelling and usage.
