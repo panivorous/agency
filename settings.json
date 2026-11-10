@@ -1,0 +1,15 @@
+{
+  "env": {
+    "CLAUDE_CODE_DISABLE_EXPLORE_PLAN_AGENTS": "1"
+  },
+  "attribution": {
+    "sessionUrl": false
+  },
+  "worktree": {
+    "baseRef": "head"
+  },
+  "autoMemoryEnabled": false,
+  "inputNeededNotifEnabled": true,
+  "agentPushNotifEnabled": true,
+  "tui": "fullscreen"
+}
